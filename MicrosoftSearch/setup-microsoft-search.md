@@ -22,7 +22,7 @@ To learn more about Microsoft Search features, see [Microsoft Search Overview](o
 
 ## Get Started
 
-Microsoft Search is turned on by default for all Microsoft apps that supports it, as a part of Microsoft 365. There is no setup required,but you can improve the overall Microsoft Search experience through some basic administrative tasks.
+Microsoft Search is turned on by default for all Microsoft apps that supports it, as a part of Microsoft 365. There is no setup required, but you can improve the overall Microsoft Search experience through some basic administrative tasks.
 
 You manage Microsoft Search from Microsoft 365 admin center.
 
